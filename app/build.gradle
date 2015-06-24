@@ -15,7 +15,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.google.android.gms.samples.wallet"
+        applicationId "com.ccc.android.gms.samples.wallet"
         minSdkVersion 9
         targetSdkVersion 19
 	versionCode Integer.parseInt(buildTime())
